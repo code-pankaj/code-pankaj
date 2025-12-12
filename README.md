@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-pankaj&label=Profile%20views&color=0e75b6&style=flat" alt="code-pankaj" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [codepankaj.me](codepankaj.me)
 
