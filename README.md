@@ -7,15 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [codepankaj.tech](codepankaj.tech)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pankajyadav003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajyadav003" height="30" width="40" /></a>
-<a href="https://instagram.com/pankaj.ydv007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankaj.ydv007" height="30" width="40" /></a>
+<a href="https://twitter.com/codepankajpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankajyadav003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pankajyadav007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pankajyadav007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/luffy001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="luffy001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pankaj_yadav_069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankaj_yadav_069" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codepankaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pankaj_yadav_069" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
