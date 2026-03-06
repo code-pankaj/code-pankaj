@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [codepankaj.tech](codepankaj.tech)
+- 👨‍💻 All of my projects are available at [codepankaj.tech](https://codepankaj.tech)
 
 - 💬 Ask me about **Typescript**
 
